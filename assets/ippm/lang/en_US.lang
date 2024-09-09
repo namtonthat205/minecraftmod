@@ -1,0 +1,63 @@
+item.PinkSword.name= Pink Sword
+item.PinkGem.name= Pink Gem
+item.PurpleGem.name= Purple Gem
+item.BoStaff.name= Bo Staff
+item.Fist.name= The Mega GOD Fist
+item.RainbowGem.name= Rainbow Gem
+item.Mace.name= The Golden Destructive Mace
+item.WarAxe.name= The Heavenly War Axe Of Death
+item.JenStaff.name= Jen's Lucky Pink Staff of Love
+item.Spear.name= The God Spear Of Destiny
+item.PinkHoe.name= Jen's Pink Lucky Staff
+item.Scythe.name= Black Scythe Of Death
+
+enchantment.level.50=L
+enchantment.level.20=XX
+enchantment.level.100=C
+enchantment.level.40=XL
+enchantment.level.9=IX
+enchantment.level.30=XXX
+enchantment.level.60=LX
+enchantment.level.70=LXX
+enchantment.level.80=LXXX
+enchantment.level.90=XC 
+enchantment.level.15=XV
+enchantment.level.25=XXV
+enchantment.level.35=XXXV
+enchantment.level.45=XLV
+enchantment.level.55=LV
+enchantment.level.65=LXV
+enchantment.level.75=LXXV
+enchantment.level.85=LXXXV
+enchantment.level.95=XCV
+enchantment.level.200=CC
+enchantment.level.300=CCC
+enchantment.level.400=CD
+enchantment.level.500=D
+enchantment.level.1000=M
+
+
+item.PinkHelmet.name= Pink Helmet
+item.PinkChestplate.name= Pink Chestplate
+item.PinkLeggings.name= Pink Leggings
+item.PinkBoots.name= Pink Boots
+
+item.PurpleHelmet.name= Purple Helmet
+item.PurpleChestplate.name= Purple Chestplate
+item.PurpleLeggings.name= Purple Leggings
+item.PurpleBoots.name= Purple Boots
+
+item.SpiralHelmet.name= Spiral Helmet
+item.SpiralChestplate.name= Spiral Chestplate
+item.SpiralLeggings.name= Spiral Leggings
+item.SpiralBoots.name= Spiral Boots
+
+item.RainbowHelmet.name= Rainbow Helmet
+item.RainbowChestplate.name= Rainbow Chestplate
+item.RainbowLeggings.name= Rainbow Leggings
+item.RainbowBoots.name= Rainbow Boots
+
+
+
+
+itemGroup.Items++= Items++

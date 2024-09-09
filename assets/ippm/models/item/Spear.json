@@ -1,0 +1,28 @@
+{
+    "parent": "ippm:builtin/generated",
+    "textures": {
+        "layer0": "ippm:items/Spear"
+    },
+    "display": {
+        "thirdperson": {
+            "rotation": [ 179, 88, 224 ],
+            "translation": [ 0.00, 1.50, -1.50 ],
+            "scale": [ 2.00, 2.00, 2.00 ]
+        },
+        "firstperson": {
+            "rotation": [ 0, 225, 25 ],
+            "translation": [ 7.50, 2.75, 0.00 ],
+            "scale": [ 2.25, 2.25, 2.25 ]
+        },
+        "gui": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0.00, 0.00, 0.00 ],
+            "scale": [ 1.00, 1.00, 1.00 ]
+        },
+        "head": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0.00, 0.00, 0.00 ],
+            "scale": [ 1.00, 1.00, 1.00 ]
+        }
+    }
+}
